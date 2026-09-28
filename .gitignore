@@ -1,0 +1,6 @@
+_shots/
+shot.py
+*.ceu.json
+.DS_Store
+*.bak.*
+*.bak-*
